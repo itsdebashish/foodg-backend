@@ -19,5 +19,5 @@ public class MenuItemRequest {
 
     private Boolean available;
 
-    private String restaurantId;
+    private Long restaurantId;
 }
