@@ -209,7 +209,7 @@ src
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/foodg.git
+git clone https://github.com/itsdebashish/foodg-backend.git
 cd foodg
 ```
 
