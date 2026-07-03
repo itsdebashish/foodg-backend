@@ -51,7 +51,7 @@ public class MenuController {
         return ResponseEntity.ok(response);
     }
 
-    @PatchMapping("/{id}/availability")
+    @PatchMapping("/{id}/check-availability")
     public ResponseEntity<Boolean> checkAvailability(
             @PathVariable Long id) {
 
