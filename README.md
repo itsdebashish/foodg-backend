@@ -282,7 +282,3 @@ http://localhost:8080/swagger-ui/index.html
 Contributions, suggestions, and improvements are welcome. Please create a feature branch, commit your changes with clear messages, and open a pull request for review.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
